@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Gateway",
+        "ip": "192.168.10.1"
+    },
+    {
+        "nome": "Servidor-Arquivos",
+        "ip": "192.168.10.10"
+    },
+    {
+        "nome": "Impressora-Financeiro",
+        "ip": "192.168.10.20"
+    },
+    {
+        "nome": "AP-Reuniao",
+        "ip": "192.168.10.30"
+    }
+]
